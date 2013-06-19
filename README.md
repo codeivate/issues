@@ -1,4 +1,1 @@
-issues
-======
-
-Public Bugs &amp; Features tracker for Codeivate
+Public Bugs &amp; Features tracker for [Codeivate](http://www.codeivate.com)
